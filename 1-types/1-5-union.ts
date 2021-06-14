@@ -23,8 +23,7 @@
   };
 
   type FailState = {
-    reason
-    : string;
+    reason: string;
   };
 
   type LoginState = SuccessState | FailState;
