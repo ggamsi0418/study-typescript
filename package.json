@@ -1,0 +1,15 @@
+{
+  "name": "study-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@personal-github.com:ggamsi0418/study-typescript.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
